@@ -26,7 +26,7 @@ The dataset was provided as a raw CSV file and includes:
 
 ---
 
-## 🛠️ Data Cleaning (Power Query)
+## Data Cleaning (Power Query)
 
 ### 1. Standardising Categories
 Some responses were inconsistent because users selected "Other" and entered custom text.
